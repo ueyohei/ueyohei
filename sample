@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang"ja">
+    <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+ <!--
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXX-X"></script>
+<script> -->
+ <!-- window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());-->
+
+ 
+</script>
+
+
+          
+        <meta charset="UTF-8">
+        <meta name="viewport"content="width=device-width,initial-scale=1">
+        <title>サンプル</title>
+        <link href="nnew/s.css"type="text/css"rel="stylesheet">
+        <style>
+            @media screen and(max-width:600px){
+                h1{
+                    font-size:0.6vw;
+                }
+            }
+            
+             @media (max-width:676px){ video{
+                max-width: 100%;
+                }
+            }
+            
+        </style>
+       <meta name="google-site-verification" content="3fXflOv0V3RNdQOPdsSZ1003Ll6qSxoEoUINV3DOudM" />
+  
+
+       
+    </head>
+   
+    <body>
+        <header>
+            <h1><p class="k"><v>私の提案のサンプルを紹介します</v></p></h1>
+            <p class="k">私が作成した音声ファイルを載せました。<br>クリックすると音声が再生されます。</p>
+        <figure class ="sample"> <video src="cg (2).mp4"controls poster="cg1.3.jpg"><br></figure>
+           
+      
+            
+
+            
+
+            
+        </header>
+        <main>
+          <y> <p> <br>また、私はWebページを作成・運営をしています。<br>下をクリックしていただくと<strong><line class ="yellow">Webページに飛べます</line></strong><br>
+              </p></y>
+            
+            <!--//完全プライベート-->
+         
+            
+      <a target="_blank" href="https://samrai.me">
+          <p class="k">  ＞<span>こちらをクリックしてください</span></a> </p>
+                
+            
+            
+            
+            
+          <!--  <p><a href="#cta">今すぐ申し込む</a></p>
+            <p><h2>事実、<span class="yellow-futo">30代以上の人</span>がヨガを始めています。</h2>
+            
+            <br>体質が変わった会員様の声
+            <br>肩こりが無くなりました(30代)。<br>最近ぎっくり腰になりません(40代)。</p>
+            <p class="kadomaru-box">期待できる効果!</p>
+            <br>ぽっこりお腹に
+            <p id="cta"お申し込みはこちらから></p>
+            
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/s582L3gujnw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            
+            <br><a target="_blank"href="https://coconala.com/services/926556">お申し込みはこちらから</a>
+          -->
+          
+        </main>
+        <footer>
+         
+        </footer>
+    </body>
+
+</html>
